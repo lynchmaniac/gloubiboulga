@@ -1,6 +1,6 @@
 {
   "name": "gloubiboulga",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "test de creation de module npm",
   "main": "index.js",
   "scripts": {
