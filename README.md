@@ -1,6 +1,8 @@
 Gloubiboulga
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lynchmaniac/gloubiboulga.svg)](https://greenkeeper.io/)
+
 test de création d'un module npm pour échapper les caractères HTML
 
 ## Installation
